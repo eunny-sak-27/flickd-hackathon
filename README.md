@@ -15,7 +15,7 @@ Given a short video and its transcript, this pipeline:
 ## ⚙️ Tech Stack
 
 - **Object Detection:** Roboflow + custom-trained model
-- **Visual Matching:** CLIP (ViT-L/14) + FAISS
+- **Visual Matching:** CLIP (ViT-B/32) + FAISS
 - **Vibe Classification:** BART-based Zero-Shot Classifier (via HuggingFace)
 - **Video Processing:** OpenCV
 - **Image Preprocessing:** Pillow
