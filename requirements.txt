@@ -1,0 +1,10 @@
+opencv-python
+numpy
+pillow
+torch
+torchvision
+clip-anytorch
+faiss-cpu
+pandas
+transformers
+roboflow
