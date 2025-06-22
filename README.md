@@ -120,4 +120,4 @@ The product catalog contains >1,000 images of clothing items. To enable fast mat
 ## Built By
 - Saketh Eunny
 - Mail: saketheunny1@gmail.com
-- Linkedin: www.linkedin.com/in/saketh-eunny-a7b9b2231
+- [LinkedIn](https://www.linkedin.com/in/saketh-eunny-a7b9b2231)
